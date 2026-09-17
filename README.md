@@ -26,7 +26,6 @@ Computer Science graduate and **Odoo Developer** specializing in end-to-end ERP 
 - ⚡ Optimizing ORM queries and batch processes for performance
 - 🔀 Comfortable working with Git and GitHub on collaborative projects
 - 🌐 Full-stack side projects with **Python & Django**
-- 📍 Based in Lahore, Pakistan
 
 ---
 
